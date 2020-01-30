@@ -49,6 +49,7 @@ Watch netflix and farm blight for atleast 4 ex per hour. I tracked 60+ maps in 3
 # Minimal gear:
 6L vaal skeles on femurs for t13+ blight maps
 ![https://i.imgur.com/XFMP9k8.png](https://i.imgur.com/XFMP9k8.png)
+
 My gear 
 [PoE Buddy - lv97 Summon Skeletons Witch (Necromancer)](https://poe.technology/poebuddy/Cr8LSnuv#items-view)
 
