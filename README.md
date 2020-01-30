@@ -47,7 +47,7 @@ Other issue ? Go here https://github.com/vadash/TowerDefense/issues
 # Profit
 Watch netflix and farm blight for atleast 4 ex per hour. I tracked 60+ maps in 3.9 patch 3rd week and got 90c profit per map
 
-8 * 90 / 110 = **6.5 ex per hour** easily cashable loot
+8 * 90 / 110 = **6.5 ex per hour** easily cashable loot. Hereis [another report from 3.9](https://old.reddit.com/r/pathofexile/comments/evqeza/loot_from_40x_blighted_maps/)
 
 ![t13 with teal](https://i.imgur.com/hATpF1r.png)
 
