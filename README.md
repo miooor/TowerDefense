@@ -31,10 +31,11 @@ Extract to PoeHelper\Plugins\Compiled\TowerDefense
 Trying to tick the box but it doesnt work ?
 
 Check
-1. You have correct system date
-2. Not running https sniffers (wireshark, fiddler, some AV). I am using KIS and its fine here
-3. ExileAPI Loader.exe is not blocked in firewall
-4. Running Windows 10
+1. Free version doesnt work in first 2 months of league
+2. You have correct system date
+3. Not running https sniffers (wireshark, fiddler, some AV). I am using KIS and its fine here
+4. ExileAPI Loader.exe is not blocked in firewall
+5. Running Windows 10
 
 Kicked for performing too many actions ?
 
