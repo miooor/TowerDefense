@@ -44,7 +44,8 @@ Watch netflix and farm blight for 2-4 ex per hour
 # Minimal gear:
 6L vaal skeles on femurs for t13+ blight maps
 ![https://i.imgur.com/XFMP9k8.png](https://i.imgur.com/XFMP9k8.png)
-My gear [PoE Buddy - lv97 Summon Skeletons Witch (Necromancer)](https://poe.technology/poebuddy/Cr8LSnuv#items-view)
+My gear 
+[PoE Buddy - lv97 Summon Skeletons Witch (Necromancer)](https://poe.technology/poebuddy/Cr8LSnuv#items-view)
 
 # Extra
 1. Use auto flasker https://github.com/sychotixdev/BasicFlaskRoutine
@@ -52,6 +53,7 @@ My gear [PoE Buddy - lv97 Summon Skeletons Witch (Necromancer)](https://poe.tech
 3. Stashie to sort https://github.com/Qvin0000/ExileApiPlugins/tree/master/Stashie
 
 Best map:
+
 ![https://i.imgur.com/ktBsci3.png](https://i.imgur.com/ktBsci3.png)
 
 Use 3 teal (7 lucky chests with awakener 8) / 3 crimson (11 lucky chests with awakener 8)
