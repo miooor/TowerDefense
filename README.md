@@ -40,7 +40,7 @@ I use global 40-60 ms delay after every action but maybe I missed smth. Try pred
  ![https://i.imgur.com/uZqF3oD.png](https://i.imgur.com/uZqF3oD.png)
 
 # Profit
-Watch netflix and farm blight for 4 ex per hour. I tracked 60+ maps in 3.9 patch 3rd week
+Watch netflix and farm blight for atleast 4 ex per hour. I tracked 60+ maps in 3.9 patch 3rd week and got **90c profit per map**
 
 ![t13 with teal](https://i.imgur.com/hATpF1r.png)
 
