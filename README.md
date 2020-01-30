@@ -45,7 +45,8 @@ I use global 40-60 ms delay after every action but maybe I missed smth. Try pred
 Other issue ? Go here https://github.com/vadash/TowerDefense/issues
 
 # Profit
-Watch netflix and farm blight for atleast 4 ex per hour. I tracked 60+ maps in 3.9 patch 3rd week and got **90c profit per map**
+Watch netflix and farm blight for atleast 4 ex per hour. I tracked 60+ maps in 3.9 patch 3rd week and got 90c profit per map
+8 * 90 / 110 = **6.5 ex per hour** easily cashable loot
 
 ![t13 with teal](https://i.imgur.com/hATpF1r.png)
 
