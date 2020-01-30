@@ -25,7 +25,9 @@ Extract to PoeHelper\Plugins\Compiled\TowerDefense
 ![https://cdn.discordapp.com/attachments/669645106231508992/669686434596257812/unknown.png](https://cdn.discordapp.com/attachments/669645106231508992/669686434596257812/unknown.png)
 
 # Troubleshooting
-I am trying to tick the box but it doesnt work. Check
+Trying to tick the box but it doesnt work ?
+
+Check
 1. You have correct system date
 2. Not running http sniffers (wireshark, fiddler, some AV). I am using KIS and its fine here
 3. Wont work in first month of new league
@@ -33,9 +35,9 @@ I am trying to tick the box but it doesnt work. Check
 5. Running windows 10 x64
 
 Kicked for performing too many actions ?
+
 I use global 40-60 ms delay after every action but maybe I missed smth. Try predictive mode in PoE
  ![https://i.imgur.com/uZqF3oD.png](https://i.imgur.com/uZqF3oD.png)
-
 
 # Profit
 Watch netflix and farm blight for 2-4 ex per hour
