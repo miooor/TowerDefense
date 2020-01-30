@@ -39,6 +39,8 @@ Kicked for performing too many actions ?
 I use global 40-60 ms delay after every action but maybe I missed smth. Try predictive mode in PoE
  ![https://i.imgur.com/uZqF3oD.png](https://i.imgur.com/uZqF3oD.png)
 
+Other issue ? Go here https://github.com/vadash/TowerDefense/issues
+
 # Profit
 Watch netflix and farm blight for atleast 4 ex per hour. I tracked 60+ maps in 3.9 patch 3rd week and got **90c profit per map**
 
