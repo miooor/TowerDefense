@@ -17,7 +17,9 @@ Simple plugin that lets you AFK with necro.
 
 # Download
 [Download](https://cloud.mail.ru/public/aX3U/4CpuEeicD) (plugin + optional lootfilter)
+
 [Virus Total](https://www.virustotal.com/gui/file/d39a8cf1047167b7b6f7f504b766db81b32431c024e77f9d58dcf36022bb8c4e/detection) 0/67
+
 [Discord](https://discord.gg/krU2DUs)
 
 # Setup 
