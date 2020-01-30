@@ -40,8 +40,9 @@ I use global 40-60 ms delay after every action but maybe I missed smth. Try pred
  ![https://i.imgur.com/uZqF3oD.png](https://i.imgur.com/uZqF3oD.png)
 
 # Profit
-Watch netflix and farm blight for 2-4 ex per hour
-![https://cdn.frankerfacez.com/emoticon/288800/4](https://cdn.frankerfacez.com/emoticon/288800/4)
+Watch netflix and farm blight for 4 ex per hour. I tracked 60+ maps in 3.9 patch 3rd week
+
+![t13 with teal](https://i.imgur.com/hATpF1r.png)
 
 # Minimal gear:
 6L vaal skeles on femurs for t13+ blight maps
