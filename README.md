@@ -32,10 +32,9 @@ Trying to tick the box but it doesnt work ?
 
 Check
 1. You have correct system date
-2. Not running http sniffers (wireshark, fiddler, some AV). I am using KIS and its fine here
-3. Wont work in first month of new league
-4. ExileAPI Loader.exe is not blocked in firewall
-5. Running windows 10 x64
+2. Not running https sniffers (wireshark, fiddler, some AV). I am using KIS and its fine here
+3. ExileAPI Loader.exe is not blocked in firewall
+4. Running Windows 10
 
 Kicked for performing too many actions ?
 
