@@ -107,4 +107,4 @@ Right click part of tree you dont need and press Remove
 
 ![Edit](https://i.imgur.com/dcLvQHx.png)
 
-Press reload to save changes and close menu
+Press reload to save changes and close menu. Remember if you dont run it as admin plugin wont be able to send keys on some machines!
