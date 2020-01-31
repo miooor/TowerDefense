@@ -68,3 +68,43 @@ Best map:
 ![https://i.imgur.com/ktBsci3.png](https://i.imgur.com/ktBsci3.png)
 
 Use 3 teal (7 lucky chests with awakener 8) / 3 crimson (11 lucky chests with awakener 8)
+
+# Bild Your Own Routine (BYOR) Guide
+This plugin is a part of BasicFlaskRoutine https://github.com/sychotixdev/BasicFlaskRoutine
+
+Download [BYOR.7z](https://cloud.mail.ru/public/aX3U/4CpuEeicD/BYOR/)
+
+Extract necroQWT.json to PoeHelper\Plugins\Compiled\BasicFlaskRoutine\Profile\necroQWT.json
+
+![Extract path](https://i.imgur.com/jbuQ13i.png)
+
+Run Loader **AS ADMIN**! Activate plugin in ExileAPI
+
+![Activate](https://i.imgur.com/uo8VWAx.png)
+
+Go to Profile -> Clear -> Load
+
+![Plugin](https://i.imgur.com/FU4012J.png)
+
+Select our profile and load
+
+![Profile](https://i.imgur.com/aWuNRSt.png)
+
+Press Reload here.
+
+![Reload](https://i.imgur.com/ZfPZOSy.png)
+
+What necroQWT will do for you ?
+
+1. Press Granite flask (5 key) + Vaal molten shell (W) for fat 9k shield
+2. Activate bone armor (T)
+3. Recall AG and zombies (we track boots buff, so make sure your AG has it)
+https://pathofexile.gamepedia.com/Victario%27s_Flight
+
+How to edit it ?
+
+Right click part of tree you dont need and press Remove
+
+![Edit](https://i.imgur.com/dcLvQHx.png)
+
+Press reload to save changes and close menu
