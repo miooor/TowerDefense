@@ -37,6 +37,13 @@ Check
 4. ExileAPI Loader.exe is not blocked in firewall
 5. Running Windows 10
 
+Another suggestions I didnt test but was reported helpful
+1. Disable zoom hack and bright
+2. Disable CoPilot
+3. Change key to something simple like middle mouse button
+4. Delete setting file ( PoeHelper\config\global\TowerDefense )
+5. Run ExileAPI Loader.exe as admin
+
 Kicked for performing too many actions ?
 
 I use global 40-60 ms delay after every action but maybe I missed smth. Try predictive mode in PoE
