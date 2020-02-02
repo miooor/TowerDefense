@@ -59,7 +59,7 @@ Watch netflix and farm blight for atleast 4 ex per hour. I tracked 60+ maps in 3
 ![t13 with teal](https://i.imgur.com/hATpF1r.png)
 
 # Minimal gear (3.9 updated):
-Links are
+Links
 1. Minion damage
 2. Melee physical damage
 3. Melee splash (must have, you will be overwhelmed without it)
