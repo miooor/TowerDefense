@@ -59,13 +59,47 @@ Watch netflix and farm blight for atleast 4 ex per hour. I tracked 60+ maps in 3
 ![t13 with teal](https://i.imgur.com/hATpF1r.png)
 
 # Minimal gear:
-6L vaal skeles on femurs for t13+ blight maps
+Recomended links are
+1. Minion damage
+2. Melee physical damage
+3. Melee splash (must have, you will be overwhelmed without it)
+4. Impale (with dread banner generocity)
+5. Empower (in +3 staff ONLY) / Ruthless
+
+Never use in main links:
+1. Feeding frenzy (too weak after nerf)
+2. Meat shield (skeles will ne too passive)
+3. Multistrike (Multistrike cannot support Vaal Skills)
+
+white blight:
+1. lvl 17+ gems
+2. 5L femurs or 6L rare armor
+
+yellow:
+usualy not worth it, skip
+
+red t13:
+same as last +
+1. lvl 19+ gems
+2. 6L femurs
+3. 4L zombies with maim, meat shield, feeding frenzy
+4. flasker with granite, basalt, karui
+5. 8000 EHP (life + es) with offering up
+6. poison immune (via pantheon)
+7. chill tower annointment
 ![https://i.imgur.com/XFMP9k8.png](https://i.imgur.com/XFMP9k8.png)
+
+red t14+:
+same as last +
+1. lvl 20+ gems
+2. 6L +3 stuff (with fortify 1 support or 80%+ minion damage)
+3. BYOR with bone armor, VMS, covocation
+4. 9000 EHP
 
 My gear 
 [PoE Buddy - lv97 Summon Skeletons Witch (Necromancer)](https://poe.technology/poebuddy/Cr8LSnuv#items-view)
 
-# Extra
+# Extra plugins
 1. Use auto flasker https://github.com/sychotixdev/BasicFlaskRoutine
 2. AutoOpen plugin to open chests https://github.com/vadash/AutoOpen
 3. Stashie to sort https://github.com/Qvin0000/ExileApiPlugins/tree/master/Stashie
