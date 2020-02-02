@@ -98,6 +98,9 @@ same as last +
 3. BYOR with bone armor, VMS, covocation
 4. 9000 EHP
 
+Empower 4 is not required. Use this link to buy +3 gear
+https://www.pathofexile.com/trade/search/Metamorph/rP3G8v7CQ
+
 My gear 
 
 [PoE Buddy - lv97 Summon Skeletons Witch (Necromancer)](https://poe.technology/poebuddy/Cr8LSnuv#items-view)
