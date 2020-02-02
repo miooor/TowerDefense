@@ -112,7 +112,8 @@ same as last +
 
 Empower 4 is not required. Use this link to buy +3 gear
 https://www.pathofexile.com/trade/search/Metamorph/rP3G8v7CQ
-Queen's Escape wont be enough after yellow maps.
+
+Queen's Escape wont be enough after yellow maps. I have no experience with double covocation +1/+2 wands. It may work great as well
 
 My gear 
 
