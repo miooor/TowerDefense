@@ -70,7 +70,7 @@ Auras
 1. Aspect of avian (with avian chest)
 2. Dread banner + generocity (6% more dps without mana increase). Use with impale
 3. Pride / Skiterbots (bigger range) / Haste
-4. Purity of Elements with 50% chaos res wtacher eye (premium, totally not required)
+4. Purity of Elements with 50% chaos res eye (premium, totally not required)
 
 Never use in main links:
 1. Feeding frenzy (too weak after nerf)
@@ -107,6 +107,8 @@ same as last +
 2. 6L +3 stuff (with fortify 1 support or 80%+ minion damage)
 3. BYOR with bone armor, VMS, covocation
 4. 9000 EHP
+5. jewel with mion blind
+6. lvl 21 spectre
 
 Empower 4 is not required. Use this link to buy +3 gear
 https://www.pathofexile.com/trade/search/Metamorph/rP3G8v7CQ
@@ -124,6 +126,9 @@ per skeleton damage with melee splash
 1. Use auto flasker https://github.com/sychotixdev/BasicFlaskRoutine
 2. AutoOpen plugin to open chests https://github.com/vadash/AutoOpen
 3. Stashie to sort https://github.com/Qvin0000/ExileApiPlugins/tree/master/Stashie
+
+AG gear + spectres:
+https://www.pathofexile.com/forum/view-thread/2624013/page/1
 
 Best map:
 
