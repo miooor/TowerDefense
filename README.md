@@ -58,13 +58,19 @@ Watch netflix and farm blight for atleast 4 ex per hour. I tracked 60+ maps in 3
 
 ![t13 with teal](https://i.imgur.com/hATpF1r.png)
 
-# Minimal gear:
-Recomended links are
+# Minimal gear (3.9 updated):
+Links are
 1. Minion damage
 2. Melee physical damage
 3. Melee splash (must have, you will be overwhelmed without it)
-4. Impale (with dread banner generocity)
+4. Impale
 5. Empower (in +3 staff ONLY) / Ruthless
+
+Auras
+1. Aspect of avian (with avian chest)
+2. Dread banner + generocity (6% more dps without mana increase). Use with impale
+3. Pride / Skiterbots (bigger range) / Haste
+4. Purity of Elements with 50% chaos res wtacher eye (premium, totally not required)
 
 Never use in main links:
 1. Feeding frenzy (too weak after nerf)
@@ -72,14 +78,17 @@ Never use in main links:
 3. Multistrike (Multistrike cannot support Vaal Skills)
 
 white blight:
+
 1. lvl 17+ gems
 2. 5L femurs or 6L rare armor
 3. Spirit offering (unsocket CWC pls)
 
 yellow:
-usualy not worth it, skip
+
+usualy not worth it after 2nd week
 
 red t13:
+
 same as last +
 1. lvl 19+ gems
 2. 6L femurs
@@ -92,6 +101,7 @@ same as last +
 ![https://i.imgur.com/XFMP9k8.png](https://i.imgur.com/XFMP9k8.png)
 
 red t14+:
+
 same as last +
 1. lvl 20+ gems
 2. 6L +3 stuff (with fortify 1 support or 80%+ minion damage)
@@ -100,6 +110,7 @@ same as last +
 
 Empower 4 is not required. Use this link to buy +3 gear
 https://www.pathofexile.com/trade/search/Metamorph/rP3G8v7CQ
+Queen's Escape wont be enough after yellow maps.
 
 My gear 
 
