@@ -68,7 +68,7 @@ Recomended links are
 
 Never use in main links:
 1. Feeding frenzy (too weak after nerf)
-2. Meat shield (skeles will ne too passive)
+2. Meat shield (skeles will be too passive)
 3. Multistrike (Multistrike cannot support Vaal Skills)
 
 white blight:
@@ -85,7 +85,7 @@ same as last +
 3. 4L zombies with maim, meat shield, feeding frenzy
 4. flasker with granite, basalt, karui
 5. 8000 EHP (life + es) with offering up
-6. poison immune (via pantheon)
+6. poison immunity (via pantheon)
 7. saqawal's nest with aspect of avian (count skeles as mions and as allies for 300% effect)
 8. chill tower annointment
 ![https://i.imgur.com/XFMP9k8.png](https://i.imgur.com/XFMP9k8.png)
@@ -99,6 +99,9 @@ same as last +
 
 My gear 
 [PoE Buddy - lv97 Summon Skeletons Witch (Necromancer)](https://poe.technology/poebuddy/Cr8LSnuv#items-view)
+
+per skeleton damage with melee splash
+[Deeps](https://i.imgur.com/BpDirWA.png)
 
 # Extra plugins
 1. Use auto flasker https://github.com/sychotixdev/BasicFlaskRoutine
