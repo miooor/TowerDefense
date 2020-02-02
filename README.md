@@ -98,9 +98,11 @@ same as last +
 4. 9000 EHP
 
 My gear 
+
 [PoE Buddy - lv97 Summon Skeletons Witch (Necromancer)](https://poe.technology/poebuddy/Cr8LSnuv#items-view)
 
 per skeleton damage with melee splash
+
 ![Deeps](https://i.imgur.com/BpDirWA.png)
 
 # Extra plugins
