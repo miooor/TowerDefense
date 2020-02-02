@@ -109,6 +109,7 @@ same as last +
 4. 9000 EHP
 5. jewel with mion blind
 6. lvl 21 spectre
+7. kingmaker on AG (if you factor in the increased crit multi from Kingmaker, 3 power charges on their own grant ~23% more damage)
 
 Empower 4 is not required. Use this link to buy +3 gear
 https://www.pathofexile.com/trade/search/Metamorph/rP3G8v7CQ
