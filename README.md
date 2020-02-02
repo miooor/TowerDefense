@@ -15,17 +15,5 @@ Simple plugin that lets you AFK with necro.
 
 [![Tower Defense plugin](https://i.imgur.com/CiemHav.png)](https://youtu.be/l3qag50mLSs?t=9 "Tower Defense plugin")
 
-# Download
-[Download](https://cloud.mail.ru/public/aX3U/4CpuEeicD) (plugin + optional lootfilter)
-
-[Virus Total](https://www.virustotal.com/gui/file/d39a8cf1047167b7b6f7f504b766db81b32431c024e77f9d58dcf36022bb8c4e/detection) 0/67
-
-[Discord](https://discord.gg/krU2DUs)
-
-# Setup 
-Make sure POE is on main monitor!
-Extract to PoeHelper\Plugins\Compiled\TowerDefense
-![https://cdn.discordapp.com/attachments/669645106231508992/669686434596257812/unknown.png](https://cdn.discordapp.com/attachments/669645106231508992/669686434596257812/unknown.png)
-
 Please check wiki 
 https://github.com/vadash/TowerDefense/wiki
