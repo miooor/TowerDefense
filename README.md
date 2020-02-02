@@ -11,9 +11,9 @@ Simple plugin that lets you AFK with necro.
 7. Black list feature. Plugin keep tracks of build attempts and after 10 retries wont use that spot anymore
 8. Every click/dealy is randomized
 
-# Video in action (early release)
+# Video
 
 [![Tower Defense plugin](https://i.imgur.com/CiemHav.png)](https://youtu.be/l3qag50mLSs?t=9 "Tower Defense plugin")
 
-# Download it here
+# Download
 https://github.com/vadash/TowerDefense/wiki
