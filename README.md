@@ -131,6 +131,8 @@ per skeleton damage with melee splash
 AG gear + spectres:
 https://www.pathofexile.com/forum/view-thread/2624013/page/1
 
+I run 2 frenzy, 1 empower, 1 diabolist spectre. AG is very important since some of blight bosses have multiple shaper HP. Kingmaker is huge dps/defense boost and vulnerabily curse on hit gloves hellps with single target dps.
+
 Best map:
 
 ![https://i.imgur.com/ktBsci3.png](https://i.imgur.com/ktBsci3.png)
