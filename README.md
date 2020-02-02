@@ -86,7 +86,8 @@ same as last +
 4. flasker with granite, basalt, karui
 5. 8000 EHP (life + es) with offering up
 6. poison immune (via pantheon)
-7. chill tower annointment
+7. saqawal's nest with aspect of avian (count skeles as mions and as allies for 300% effect)
+8. chill tower annointment
 ![https://i.imgur.com/XFMP9k8.png](https://i.imgur.com/XFMP9k8.png)
 
 red t14+:
