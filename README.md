@@ -15,5 +15,5 @@ Simple plugin that lets you AFK with necro.
 
 [![Tower Defense plugin](https://i.imgur.com/CiemHav.png)](https://youtu.be/l3qag50mLSs?t=9 "Tower Defense plugin")
 
-Please check wiki 
+# Download it here
 https://github.com/vadash/TowerDefense/wiki
