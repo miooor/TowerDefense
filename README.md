@@ -74,6 +74,7 @@ Never use in main links:
 white blight:
 1. lvl 17+ gems
 2. 5L femurs or 6L rare armor
+3. Spirit offering (unsocket CWC pls)
 
 yellow:
 usualy not worth it, skip
