@@ -1,4 +1,4 @@
-Simple plugin that lets you AFK with necro.
+Mini bot plugin that lets you AFK with necro.
 
 # Features
 
