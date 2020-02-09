@@ -17,3 +17,6 @@ Mini bot plugin that lets you AFK with necro.
 
 # Download
 https://github.com/vadash/TowerDefense/wiki
+
+# Credits
+Sithylis https://www.ownedcore.com/forums/members/1076359-sithylis.html helped with tower offsets
