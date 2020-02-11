@@ -11,12 +11,12 @@ Mini bot plugin that lets you AFK with necro.
 7. Black list feature. Plugin keep tracks of build attempts and after 10 retries wont use that spot anymore
 8. Every click/dealy is randomized
 
+# Download
+https://github.com/vadash/TowerDefense/wiki
+
 # Video
 
 [![Tower Defense plugin](https://i.imgur.com/CiemHav.png)](https://youtu.be/l3qag50mLSs?t=9 "Tower Defense plugin")
-
-# Download
-https://github.com/vadash/TowerDefense/wiki
 
 # Credits
 Sithylis https://www.ownedcore.com/forums/members/1076359-sithylis.html helped with tower offsets
