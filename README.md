@@ -10,6 +10,7 @@ Mini bot plugin that lets you AFK with necro.
 6. Can skip prepare phase
 7. Black list feature. Plugin keep tracks of build attempts and after 10 retries wont use that spot anymore
 8. Every click/dealy is randomized
+
 and many more. Check discord for detailed changelog https://discord.gg/krU2DUs
 
 # Download
