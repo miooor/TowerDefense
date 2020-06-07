@@ -1,3 +1,5 @@
+![GitHub All Releases](https://img.shields.io/github/downloads/vadash/TowerDefense/total)
+
 Mini bot plugin that lets you AFK with necro.
 
 # Features
