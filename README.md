@@ -17,8 +17,11 @@ Mini bot plugin that lets you AFK with summoner. Just load bunch of maps in stas
 and many more. Check discord for video and detailed changelog https://discord.gg/krU2DUs
 
 # Download
+
 https://github.com/vadash/TowerDefense/wiki
 
 # Credits
+
 Sithylis https://www.ownedcore.com/forums/members/1076359-sithylis.html helped with tower offsets
+
 TC, Quin and others for updating HUD
