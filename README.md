@@ -1,6 +1,6 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/vadash/TowerDefense/total)
 
-Mini bot plugin that lets you AFK with summoner
+Mini bot plugin that lets you AFK with summoner. Just load bunch of maps in stash and run it
 
 # Features
 
