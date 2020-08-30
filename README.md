@@ -18,6 +18,10 @@ and many more. Check discord for video and detailed changelog https://discord.gg
 
 # Download
 
+https://github.com/vadash/TowerDefense/wiki/Download
+
+# Wiki
+
 https://github.com/vadash/TowerDefense/wiki
 
 # Credits
