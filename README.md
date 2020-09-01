@@ -23,8 +23,7 @@ Recomeneded chants are meteor ignite on hit and +1 meteor
 3. Build towers with timer (one tower once X seconds)
 4. Upgrade tower to uber (4th update)
 5. Upgrade DD towers
-6. Build CC towers (chill)
-7. 2000+ res upgrade CC towers (chill, seismic)
+6. 2000+ res upgrade CC towers (chill, seismic)
 
 # Download
 
