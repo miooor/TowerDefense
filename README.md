@@ -19,11 +19,12 @@ and many more. Check discord for video and detailed changelog https://discord.gg
 Recomeneded chants are meteor ignite on hit and +1 meteor
 
 1. First build empower with 2+ other towers nearby
-2. 1650+ res build flame tower
-3. Upgrade tower to uber (4th update)
-4. Upgrade DD towers
-5. Build CC towers (chill)
-5. 2000+ res upgrade CC towers (chill, seismic)
+2. 1650+ res build flame tower (skip timer)
+3. Build towers with timer (one tower once X seconds)
+4. Upgrade tower to uber (4th update)
+5. Upgrade DD towers
+6. Build CC towers (chill)
+7. 2000+ res upgrade CC towers (chill, seismic)
 
 # Download
 
