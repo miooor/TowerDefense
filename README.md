@@ -1,6 +1,6 @@
 Mini bot plugin that lets you AFK with summoner. Just load bunch of maps in stash and run it. Plugin is paid
 
-[<img src="https://i.imgur.com/9wf1CN7.png width="600"/>](https://youtu.be/2ivutFg4Ofc?t=31 "full")
+[<img src="https://i.imgur.com/9wf1CN7.png" width="600"/>](https://youtu.be/2ivutFg4Ofc?t=31 "full")
 
 # Features
 
