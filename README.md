@@ -35,6 +35,7 @@ Recomeneded chants are meteor ignite on hit and +1 meteor
 4. Real system _(no virtual machine support for now)_
 5. PREDICTIVE mode. It will behave unpredictable with lockstep (poe has it on default). Example, item stuck under cursor and much more
 6. TC Exile Api fork (provided with bot)
+7. Necro or Elementalist golemancer is highly recommnded for smooth running
 
 # Download
 
