@@ -46,6 +46,10 @@ https://github.com/vadash/TowerDefense/wiki/Download
 
 https://github.com/vadash/TowerDefense/wiki
 
+# Discord
+
+https://discord.gg/UHhZCp6
+
 # Credits
 
 Sithylis https://www.ownedcore.com/forums/members/1076359-sithylis.html helped with tower offsets
