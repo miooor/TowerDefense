@@ -30,7 +30,7 @@ Recomeneded chants are meteor ignite on hit and +1 meteor
 # Requirements
 
 1. Windows 10 64 bit _(it should work on win 8 but was tested on win 10 2004)_
-2. English locale _(it should work on others)_
+2. English locale _(inventory analyzer plugin requirement)_
 3. English poe client _(only global server)_
 4. PREDICTIVE mode. It will behave unpredictable with lockstep (poe has it on default). Example, item stuck under cursor and much more
 5. TC Exile Api fork (provided with bot)
