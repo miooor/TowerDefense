@@ -1,4 +1,4 @@
-Mini bot plugin that lets you AFK with summoner. Just load bunch of maps in stash and run it. Plugin is paid ($28 / 90 days)
+Mini bot plugin that lets you AFK with summoner. Just load bunch of maps in stash and run it. Plugin is paid ($30 / 90 days)
 
 [<img src="https://i.imgur.com/9wf1CN7.png" width="600"/>](https://youtu.be/2ivutFg4Ofc?t=31 "full")
 
