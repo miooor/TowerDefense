@@ -4,7 +4,7 @@ Mini bot plugin that lets you AFK with summoner. Just load bunch of maps in stas
 
 # Why
 
-You should expect 20-25 exa profit over 15hours bot session after you sell everything (currency, some fragments, 21/23 gems, expensive divination cards, stacked decks)
+You should expect 20-25 exa profit over 15hours bot session after you sell everything (currency, some fragments, 21/23 gems, expensive divination cards, stacked decks, maps in bulk, league stuff)
 
 # Features
 
