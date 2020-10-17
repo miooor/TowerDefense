@@ -2,8 +2,13 @@ Mini bot plugin that lets you AFK with summoner. Just load bunch of maps in stas
 
 [<img src="https://i.imgur.com/9wf1CN7.png" width="600"/>](https://youtu.be/2ivutFg4Ofc?t=31 "full")
 
+# Why
+
+You should expect 20-25 exa profit over 15hours bot session after you sell everything (currency, some fragments, 21/23 gems, expensive divination cards, stacked decks)
+
 # Features
 
+0. Low ban chance (17/10/2020 0 bans)
 1. Build towers in small range near pump (choose general loadout or meteor mode)
 2. Support combat routines (golemancer only atm)
 3. Upgrades towers with smart priority system
